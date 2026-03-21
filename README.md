@@ -72,5 +72,5 @@ Validação de Dados:
 37. Soma de Intervalo com Condição: Faça um algoritmo que receba dois números inteiros e calcule a soma de todos os números ímpares e múltiplos de 3 situados no intervalo entre eles.
 38. Estatísticas de Conjunto: Faça um algoritmo que leia a altura e o gênero (M/F) de 15 pessoas. Ao final, mostre: a maior e a menor altura, a média de altura das mulheres e o número de homens.
 39. O Problema de Collatz: Receba um número inteiro positivo. Se for par, divida-o por 2; se for ímpar, multiplique por 3 e some 1. Repita o processo até que o número se torne 1, imprimindo todos os valores da sequência.
-40. Caixa Eletrônico Simulado: Faça um algoritmo que leia um valor de saque (inteiro) e informe quantas notas de cada valor serão entregues. Considere notas de 50, 20, 10, 5 e 1 real. O algoritmo deve priorizar as notas de maior valor.
+40.Caixa Eletrônico Simulado: Faça um algoritmo que leia um valor de saque (inteiro) e informe quantas notas de cada valor serão entregues. Considere notas de 50, 20, 10, 5 e 1 real. O algoritmo deve priorizar as notas de maior valor.
 
