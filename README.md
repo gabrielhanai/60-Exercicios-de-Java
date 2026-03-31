@@ -97,5 +97,50 @@
 58.Crie um vetor de inteiros com 10 elementos e solicite ao usuário que o preencha. Em seguida, desenvolva um algoritmo que inverta a ordem dos elementos dentro do próprio vetor (o primeiro passa a ser o último, o segundo o penúltimo, e assim por diante). Imprima o vetor após a inversão.
 
 59. Crie um vetor de floats com 8 elementos. Calcule a média aritmética de todos os valores. Em seguida, percorra o vetor novamente e imprima apenas os valores que estão acima da média calculada.
-
 60. Crie um vetor de inteiros com 10 elementos. Solicite ao usuário que informe um número e o programa deve contar e imprimir quantas vezes esse número aparece dentro do vetor. Se o número não aparecer nenhuma vez, informe ao usuário.
+
+## Funções
+
+61. Dobro do Valor: Crie uma função que receba um número inteiro como parâmetro e retorne o seu dobro.
+62. Conversor de Temperatura: Escreva uma função que receba uma temperatura em Celsius e retorne o valor convertido para Fahrenheit.
+63. Verificador de Paridade: Crie uma função que receba um número inteiro e retorne true se for par e false se for ímpar.
+64. Média Simples: Desenvolva uma função que receba três notas (floats) e retorne a média aritmética simples.
+65. Saudação Personalizada: Faça uma função que receba o nome de uma pessoa (string) e imprima a mensagem: "Olá, [nome], seja bem-vindo à aula de programação!"
+66. Cálculo de Área: Crie uma função que calcule e retorne a área de um retângulo, recebendo a base e a altura como parâmetros.
+67. Maior de Dois: Escreva uma função que receba dois números e retorne o maior deles.
+68. Tabuada Dinâmica: Crie uma função que receba um número e imprima a sua tabuada do 1 ao 10 utilizando um laço for.
+69. Soma de Intervalo: Desenvolva uma função que receba dois números inteiros (início e fim) e retorne a soma de todos os números entre eles.
+70. Contador de Vogais: Escreva uma função que receba uma string e, utilizando um laço de repetição, conte quantas vogais existem nela.
+71. Calculadora Básica: Crie uma função que receba dois números e um caractere representando a operação (+, -, *, /). Utilize switch case para realizar o cálculo e retornar o resultado.
+72. Validação de Senha: Faça uma função que peça ao usuário para digitar uma senha e só retorne true quando a senha for "1234". Use do while.
+73. Fatorial: Crie uma função que calcule o fatorial de um número inteiro passado por parâmetro usando um laço while.
+74. Verificador de Primos: Escreva uma função que receba um número e retorne se ele é primo ou não (utilize a lógica de divisores).
+75. Soma de Vetor: Crie uma função que receba um vetor de inteiros e seu tamanho, e retorne a soma de todos os elementos.
+76. Busca em Vetor: Desenvolva uma função que receba um vetor de 10 posições e um valor X. A função deve retornar a posição (índice) onde X se encontra ou -1 caso não exista.
+77. Média de Vetor com Filtro: Escreva uma função que receba um vetor de floats, calcule a média e imprima apenas os valores que estão acima dessa média.
+78. Inversão de String: Crie uma função que receba uma string e a exiba de trás para frente.
+79. Maior e Menor no Vetor: Faça uma função que receba um vetor de inteiros e, através de passagem de parâmetros ou exibição direta, indique o maior e menor valor contido nele.
+80. Ordenação Simples: Desenvolva uma função que receba um vetor e o ordene em ordem crescente (pode usar o algoritmo Bubble Sort que vimos brevemente).
+
+## Revisão
+
+81. Soma Simples: Crie um vetor de inteiros com 3 elementos e imprima a soma dos valores armazenados.
+82. Produto de Reais: Crie um vetor de float com 4 elementos e calcule o produto (multiplicação) de todos os valores.
+83. Média de Turma: Desenvolva um programa que utilize um vetor para armazenar as notas de 5 alunos e calcule a média aritmética da turma.
+84. Manipulação de Índices: Crie um vetor com os valores {1, 2, 3, 4, 5}. Substitua o terceiro elemento (índice 2) pelo número 0 e imprima o vetor resultante.
+85. Soma de Posições Pares: Crie um vetor de 10 inteiros e calcule a soma apenas dos elementos que estão armazenados nas posições (índices) pares.
+86. Preenchimento Dinâmico: Peça ao usuário para definir o tamanho N de um vetor, preencha-o com números inteiros e exiba o vetor completo ao final.
+87. Busca de Valor: Crie um vetor de 10 elementos. Solicite um número ao usuário e informe se esse valor está presente ou não no array.
+88. Contador de Ocorrências: Leia um vetor de 10 inteiros. Peça um número X e conte quantas vezes X aparece no vetor. Se não aparecer, informe ao usuário.
+89. Filtro "Maior que 5": Crie um vetor de 10 float. Gere um novo vetor contendo apenas os elementos que são maiores que 5.0.
+90. Múltiplos de 3: Crie um vetor de 5 elementos e gere um segundo vetor contendo apenas os números que são múltiplos de 3.
+91. Maior e Menor: Escreva um algoritmo que percorra um vetor de 10 posições e identifique o valor máximo e o valor mínimo nele contidos.
+92. Acima da Média: Leia um vetor de 8 elementos float. Calcule a média e imprima apenas os valores que estão acima dessa média.
+93. Vetor de Primos: Escreva um programa que leia um número inteiro positivo n e gere um vetor contendo os n primeiros números primos.
+94. Inversão de Ordem: Crie um vetor de 10 elementos e desenvolva um algoritmo que inverta a ordem dos elementos dentro do próprio vetor (sem usar vetor auxiliar).
+95. Soma de Dois Vetores: Leia dois vetores A e B de tamanho n. Gere um vetor C onde cada posição i seja a soma de A[i]+B[i].
+96. Função de Busca: Crie uma função que receba um vetor de 10 posições e um valor X. A função deve retornar o índice onde X se encontra ou -1 caso não exista.
+97. Verificador de Ordem: Desenvolva uma função que receba um vetor e verifique se os elementos estão em ordem crescente.
+98. Ordenação (Bubble Sort): Implemente uma função que receba um vetor e o ordene em ordem crescente utilizando o algoritmo de troca (Bubble Sort).
+99. Sistema de Login Limitado: Desenvolva uma função de validação de senha (ex: "1234") que permita ao usuário apenas 3 tentativas. Se errar todas, informe que a conta foi bloqueada.
+100. Estatísticas de Conjunto: Leia a altura e o gênero (M/F) de 15 pessoas usando vetores. Ao final, mostre a maior e menor altura, a média de altura das mulheres e o número de homens.
